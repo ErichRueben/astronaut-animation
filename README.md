@@ -57,7 +57,3 @@ Open `main.html` in a WebGL-compatible web browser to view the animation. The sc
   - `initShaders.js` - WebGL shader compilation utilities
   - `MV.js` - Matrix and vector mathematics library
   - `webgl-utils.js` - WebGL utility functions
-
-## Student Submission
-
-**Author:** Erich Rueben Justiniano  
