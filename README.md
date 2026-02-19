@@ -61,5 +61,3 @@ Open `main.html` in a WebGL-compatible web browser to view the animation. The sc
 ## Student Submission
 
 **Author:** Erich Rueben Justiniano  
-**Course:** CSC 305 - Computer Graphics  
-**Assignment:** 01 - 3D Scene Animation
